@@ -20,7 +20,18 @@ a {
     color-scheme: dark;
   }
   body {
-    color: white;
-    background: black;
+    color: white; 
+    background: rgb(15, 5, 37);
   }
+}
+.collections, .chart{
+  background-color: rgb(32, 37, 104);
+  margin: auto;
+}
+.coll{
+  padding: 10px;
+}
+.tableCell{
+  color: white;
+  border: none;
 }
